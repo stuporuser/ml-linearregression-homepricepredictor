@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# This project's virtualenv dir
+v-ml-linreg
+
